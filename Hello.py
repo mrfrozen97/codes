@@ -1,4 +1,4 @@
-#This code tells us if a noob coder named Sam Miller has small or big pp
+#This code tells us if a noob coder named Sam Miller has small or big pp, is it enough to get him a date
 #i am noob so don't expect great codes
 import random
 import time
