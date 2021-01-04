@@ -14,7 +14,7 @@ Not_ashamed_of_me_size = 5.5                                 #threshold for sam 
 
 print("You are fello programmer Help Sam get a date \U0001f600,\nChoose from below\n1)Lana\n2)Pokemaine\n3)Mia")              #Help sam.......
 pp_reduired = [5, 5.5, 6.5]
-date_list = ['Lana', 'Pokemaie', 'Mia']
+date_list = ['Lana', 'Pokimane', 'Mia']
 choice_for_date = int(input())                                                     
 
 
