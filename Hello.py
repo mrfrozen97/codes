@@ -5,7 +5,7 @@ import time
 
 #Sam_pp_max_size. Ofc in nanometer
 Max_pp_size = 10 #nm
-#I am just joking max size is just imagination
+#I am just joking max size is just imagination. It is much smalle
 
 Sam_miller_pp = random.random()*Max_pp_size                  #check sam's pp size
 
