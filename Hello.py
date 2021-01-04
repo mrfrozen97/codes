@@ -20,7 +20,7 @@ choice_for_date = int(input())
 
 #Check if sam is good enough......................................
 
-if Sam_miller_pp > pp_reduired[choice_for_date-1] and Not_ashamed_of_me_size:
+if Sam_miller_pp > pp_reduired[choice_for_date-1] and  Sam_miller_pp > Not_ashamed_of_me_size:
       time.sleep(3)
       print ("Hello! I am Sam\nAnd I am proud of my pp.\U0001F917")
       time.sleep(3)
