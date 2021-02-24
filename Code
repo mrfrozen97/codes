@@ -13,7 +13,6 @@
   animation: spin 2s linear infinite;
 }
 
-/* Safari */
 @-webkit-keyframes spin {
   0% { -webkit-transform: rotate(0deg); }
   100% { -webkit-transform: rotate(360deg); }
@@ -26,7 +25,7 @@
 </style>
 </head>
 <body>
-<h2>Your internet is trash like </h2>
+<h2>Your internet is trash just like you</h2>
 
 <div class="loader"></div>
 
